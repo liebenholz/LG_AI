@@ -2,6 +2,6 @@
 [2025.01 ~ 2025.03] LG Aimers 6th Program
 
 | Phase | Description | Details | Organization | Notes |
-| :-: | :-: | :-: | :-: | 
-| Phase01 | LG Aimers AI Education | AI Ethics, ML/DL, Supervised Learning, AI Math, Infertility & Fertility Preservation | LG AI Academy(LMS) | TBD |
-| Phase02 | LG Aimers On-line AI Hackathon | Team Hackathon | LG Chem, DACON | TBD |
+| :-: | :-: | :-: | :-: | :-: | 
+| Phase01 | AI Education by LMS | AI Ethics, ML/DL, Supervised Learning, AI Math, etc. | LG AI Academy | TBD |
+| Phase02 | On-line AI Hackathon | Team Hackathon, Theme : Infertility & Fertility Preservation | LG Chem, DACON | TBD |
