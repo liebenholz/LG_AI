@@ -1,4 +1,4 @@
-# LG_AI
+# LG Aimers
 [2025.01 ~ 2025.03] LG Aimers 6th Program
 
 | Phase | Description | Details | Organization | Notes |
