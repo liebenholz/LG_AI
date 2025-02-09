@@ -5,4 +5,5 @@
   
 ## Phase II : AI On-line Hackathon
 - [Prediction of successful pregnancy for infertile patients](https://dacon.io/competitions/official/236452/overview/description)
+- Referende : [Machine learning predicts live-birth occurrence before in-vitro fertilization treatment, Nature](https://www.nature.com/articles/s41598-020-76928-z)
 - Organization : LG Chem, DACON
