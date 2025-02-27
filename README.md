@@ -4,6 +4,7 @@
 - Organization : LG AI Research, LG AI Academy.
   
 ## Phase II : AI On-line Hackathon
+### 2025.02 6th Competition
 - [Prediction of successful pregnancy for infertile patients](https://dacon.io/competitions/official/236452/overview/description)
 - Reference : [Machine learning predicts live-birth occurrence before in-vitro fertilization treatment](https://www.nature.com/articles/s41598-020-76928-z), Nature.
 - Organization : LG AI Research, DACON, The Korea Economic Daily.
